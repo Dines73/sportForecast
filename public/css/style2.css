@@ -1,0 +1,55 @@
+* {
+    box-sizing: border-box;
+  }
+
+body {
+    font-family: 'Amatic SC', cursive;
+    font-family: 'Julius Sans One', sans-serif;
+    font-weight: bold;
+    
+}
+
+.jumbotron{
+    background-image: url("../img/astr.jpg");
+    background-size: cover;
+    height: 300px;
+}
+
+
+#natalChartImg {
+    list-style-type: none;
+    list-style: none;
+}
+
+.row .col-sm-8 {
+    padding:10em 0; 
+    height: 500px;
+    width: 70%;
+    margin-bottom: 10px;
+}
+
+.row .col-sm-4 { 
+    height: 500px; 
+    width: 30%;
+    margin-bottom: 10px;
+}
+
+.table .table-striped .table-sm {
+    padding: 0
+}
+
+table,th,td {
+    border : 1px solid black;
+    border-collapse: collapse;
+  }
+  th,td {
+    padding: 5px;
+  }
+ 
+.currentChart {
+    display: none;
+}
+
+#introText {
+    text-align: center;
+}

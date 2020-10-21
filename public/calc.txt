@@ -1,0 +1,8 @@
+An over/under (O/U) bet is a wager in which a sportsbook will predict a number for
+a statistic in a given game (usually the combined score of the two teams), and bettors wager that the actual
+number in the game will be either higher or lower than that number. (wikipedia)
+The goal of a sportsbook is to have an equal value of bets on both sides of the over–under. In theory, this
+means that the manager could set the value at zero and then re-adjust based on either the number of incoming
+bets and/or events that influence the potential outcome. In practice, the initial value is based on both
+quantitative (e.g. win–loss record, average points per game, etc.) and anecdotal information (e.g. media
+reports, injury status of players, etc.). In our case we will use the astrological data too.
